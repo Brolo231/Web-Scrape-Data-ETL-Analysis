@@ -51,9 +51,9 @@ In this project, specific apple products were scraped from various web sites aft
 <p>The cleaned data is imported into Power BI for visualization. Various charts and graphs are created to analyze the product data.</p>
 
 <h2 id="screenshots">Screenshots</h2>
-<p><img src="path/to/web_scraping_code_screenshot.png" alt="Web Scraping Code"></p>
-<p><img src="path/to/csv_file_screenshot.png" alt="CSV File"></p>
-<p><img src="path/to/mysql_import_screenshot.png" alt="MySQL Import"></p>
+<p><img src="screenshots/webscrape.png" alt="Web Scraping Code"></p>
+<p><img src="screenshots/csv.png" alt="CSV File"></p>
+<p><img src="screenshots/mysql.png" alt="MySQL Import"></p>
 <p><img src="path/to/power_bi_visualization_screenshot.png" alt="Power BI Visualization"></p>
 
 <h2 id="conclusion">Conclusion</h2>

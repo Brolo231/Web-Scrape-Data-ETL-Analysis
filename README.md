@@ -15,7 +15,7 @@ In this project, specific apple products were scraped from various web sites aft
     <li><a href="#conclusion">Conclusion</a></li>
 </ul>
 
-<h2 id="prerequisites">Prerequisites</h2>
+<h2 id="prerequisites">Languages, frameworks and software</h2>
 <ul>
     <li>Python 3.x</li>
     <li>BeautifulSoup</li>

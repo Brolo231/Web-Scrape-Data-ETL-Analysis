@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
-import re  # Import regular expression module
+import re 
 
 # Function to clean price and remove unwanted characters
 def clean_text(text):
